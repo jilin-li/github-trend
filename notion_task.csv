@@ -1,0 +1,6 @@
+"Task Name,Status,Priority,Description"
+"Fetch GitHub trending data,Not started,High,""Learn how to fetch trending repositories data using GitHub API"""
+"Parse and extract data,Not started,High,""Write code to extract project names, descriptions, and star counts"""
+"Store and format data,Not started,Medium,""Save parsed data as a CSV file and ensure correct formatting"""
+"Create a scheduled task,Not started,Medium,""Learn how to set up a system-level scheduled task to run the script daily"""
+"Verify and optimize results,Not started,Low,""Regularly check the quality of the generated table data and adjust filtering criteria"""
